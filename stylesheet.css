@@ -10,10 +10,11 @@ li{
  list-style: none;
 }
 
-.header{
+header{
   background-color: #90ee90;
   color: white;
-  height:  150px;
+  height: auto;
+  clear:left;
 }
 
 .header-logo{
@@ -21,10 +22,6 @@ li{
  font-size: 100px;
 }
 
-
-.header-list{
-
-}
 
 .header-list li{
  float :left;
